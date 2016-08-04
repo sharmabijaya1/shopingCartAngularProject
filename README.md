@@ -1,1 +1,3 @@
 # shopingCartAngularProject
+
+This is the first commit made in read me.....
